@@ -1,0 +1,6 @@
+User ID,Device Model,Operating System,App Usage Time (min/day),Screen On Time (hours/day),Battery Drain (mAh/day),Number of Apps Installed,Data Usage (MB/day),Age,Gender,User Behavior Class
+101,iPhone 13,iOS,300,4.5,1500,35,500,22,Male,3
+102,Galaxy S21,Android,250,3.8,1400,30,450,25,Female,2
+103,iPhone 14 Pro,iOS,320,5.0,1600,40,600,24,Female,3
+104,Pixel 6,Android,180,2.5,1100,20,300,28,Male,1
+105,iPhone 12,iOS,290,4.2,1550,32,520,23,Male,3

@@ -1,0 +1,27 @@
+{
+    "student_id": "TUPM-26-1947",
+    "student_name": "LUNTAO",
+    "exercises_processed": [
+        {
+            "source_file": "LUNTAO_web_summary.json",
+            "status": "SUCCESS",
+            "data": {
+                "records_processed": 1029,
+                "target_status_class": "5xx",
+                "status_counts": {},
+                "top_5_urls": []
+            }
+        },
+        {
+            "source_file": "LUNTAO_mobile_summary.json",
+            "status": "SUCCESS",
+            "data": {
+                "operating_system": "iOS",
+                "behavior_class": 3,
+                "matched_records": 3,
+                "average_battery_drain": 1550.0,
+                "average_data_usage": 540.0
+            }
+        }
+    ]
+}
