@@ -1,0 +1,5 @@
+Student: LUNTAO
+Student ID: TUPM-26-1947
+Seed digit: 7
+ID sum: 29
+Verification value: 181

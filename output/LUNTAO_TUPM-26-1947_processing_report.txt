@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+----------------------------------------
+Last Name: LUNTAO
+Student ID: TUPM-26-1947
+Seed Digit: 7
+ID Sum: 29
+Verification Value: 181
+Dataset Sample Size: 79
+Valid Records: 79
+Average Global Active Power: 3.951
+JSON File: LUNTAO_TUPM-26-1947_record.json
+Backup File: LUNTAO_TUPM-26-1947_record.csv
